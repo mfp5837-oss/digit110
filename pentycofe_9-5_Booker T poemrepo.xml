@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<poem>BALLAD OF BOOKER T.
+<poem><frontpage>BALLAD OF BOOKER T.
 by
 <Author>Langston Hughes</Author>
 <character main="1">Booker T.</character>
@@ -41,9 +41,9 @@ by
 <line num="36">Can tumble down</line>
 <line num="37">If it be not rooted</line>
 <line num="38">In solid ground.</line>
-<line num="39">So, being a far-seeing</line>
-Transcript
-Page 2 of 2
+<line num="39">So, being a far-seeing</line></frontpage>
+<text>Transcript</text>
+<backpage>Page 2 of 2</backpage>
 <text>Education and Outreach Division</text>
 <line num="40">Practical man,</line> <!-- By refering to Booker T as a practical man he thinks that Booker T was realistic and sensible so he sees him as a clever man -->
 <line num="41">He said, Train your head,</line>
@@ -53,8 +53,8 @@ Page 2 of 2
 <line num="45">So let down your bucket</line>
 <line num="46">Where you are.</line><br /> <!-- Lines 49 through 54 Washington uses this line again establishing how important it is for everyone to stop what they're doing and to look at what's right in front of them he also states that people should enlighten themselves on the issues and barriers that are woven into society and then working together to make a change -->
 
-LANGSTON HUGHES
+<data info="meta">LANGSTON HUGHES
 Final Draft,
-Hollow Hills Farm,
-Monterey, California,
-June 1, 1</poem>
+<location>Hollow Hills Farm,
+Monterey, California,</location>
+<date>June 1, 1</date></data></poem>
