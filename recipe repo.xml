@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../Desktop/Git/mfp5837/Digit%20110%20homework%209-23/recipe.rnc" type="application/relax-ng-compact-syntax"?>
+<recipe>
+<title>Shrewsbury Cakes: Original Recipe.</title>
+
+<history>This recipe comes from MS Codex 625, a manuscript recipe book 
+that belonged to a student in a London cooking school in the early eighteenth century. 
+The pastry school was owned by Edward Kidder, who taught at a few locations 
+in London between around 1720 and 1734. Blank books with printed title pages 
+seem to have been used by students to write down recipes they learned.
+Kidder also published his recipes in the printed volume, 
+Receipts for Pastry and Cookery, in 1720.</history>
+<!-- Why is the first step of this recipe worded stranglely? Why do the ingredients and mesurments come after the first step and not before? -->
+<step num="1">Take a pound of fresh butter a pound of double
+refind sugar sifted fine a little beaten
+mace &amp; 4 eggs beat them all together with.
+your hands till tis very leight &amp; looks
+curdling you put thereto a pound &amp; 1/2 of
+flower roul them out into little cakes</step>
+
+<change>Our recipe (halved from the original)</change>
+
+<ingredient><mesurment unit="lb">0.5</mesurment>1/2 lb. (2 sticks) butter, softened
+<mesurment unit="pounds">0.5</mesurment>1/2 lb. sugar
+<mesurment unit="tsp">0.25</mesurment>1/4 tsp. mace
+<mesurment unit="tsp">0.5</mesurment> 1/2 tsp. cinnamon
+<mesurment unit="eggs">2</mesurment>  2 eggs
+<mesurment unit="lb">0.75</mesurment>3/4 lb. flour </ingredient>
+
+<step num="2"> Using an electric mixer, cream together the butter and sugar. </step>
+<step num="3">Then add the eggs and mix at medium speed until the mixture looks curdled. </step>
+<step num="4"> Sift together dry ingredients and add at low speed until just combined. </step>
+<step num="5"> Scoop and roll the dough by hand into 1-tbsp. balls, then pat flat.</step>
+
+<helpful>[You could also refrigerate the dough until it’s firm enough to roll out 
+on a flat surface and cut out into rounds.]</helpful>
+
+<step num="6">Bake at 350F for 15-18 minutes (ours were about 1/3″ thick, so you could roll them thinner 
+and have a slightly shorter cooking time).</step> 
+    
+<apperance>They’re done once they turn the slightest bit brown around the edges.
+This halved recipe yielded about two dozen cookies.</apperance>
+
+<end>The Results</end>
+
+<recommdation> If you like snickerdoodles (and who doesn’t?), you’d like these. 
+We added the cinnamon because we like it and couldn’t resist, and we thought it rounded out the mace nicely. 
+These are mild, fairly soft cookies that are great with tea. We rolled and patted 
+the dough into individual cookies because it was too soft and stick to roll out, 
+but a little bit more flour and a stint in the fridge might make the dough easier 
+to work with a rolling pin.</recommdation></recipe>
