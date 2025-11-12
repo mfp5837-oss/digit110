@@ -1,39 +1,46 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-    <!-- Try opening this file on your local computer in a web browser (Firefox, Chrome, etc). 
-     * On Windows, go to the browser and type control + o and browse to find this file to open it.
-     * On Mac, go to the browser and type command + o and browse to find this file to open it. 
-     Look for the text in the <title> element in the tab above the browser search bar. Do you see it? 
-    -->
+    
     <head>
-        <!-- What's in the <head> element is a "meta" area not for display. 
-            It holds important information about the website's contents.
-            The text inside the <title> element does show in the top tab of a web browser. 
-             The <head> is where we will include info about styling the site, too. -->
+
         <title>Starter HTML</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" type="text/css" href="style.css" />
-        <!-- Here is a place where we can add a little styling code called CSS to this page. 
-            I used it to apply a background color to the body element.
-        -->
+
        
     </head>
     <body>
-        <!-- CONTENT FOR DISPLAY. The <body> element holds the content we see in the display window on the web browser.-->
-        <h1>About</h1>
+        
+        <h1>Text Corpora</h1>
         <nav>
             <a href="index.html">Home</a> | <a href="about.html">About</a> | <a href="gallery.html">Gallery</a>
-        
         </nav>
         
-        <p>This is my about page.</p>
+        <p>This is my comparative analysis of the Story of an Hour and The Tell Tale Heart</p>
         <div class="side-by-side">
-            <p>Go back to my <a href="index.html">main page</a>.</p>
             <figure>
-                <img src="images/cockatoo.jpg" />
-                <figcaption>Here is a llama I encountered on an amazing hiking trip in Macchu
-                    Picchu, on the Inca Trail.</figcaption>
+                <img src="Story_Wordcloud.jpeg" />
+                <p>This image shows the text file of Story of an hour.
+                 The N-Gram size is 2 for the text.
+                  The most common N-Gram is <i>in the</i> it shows up 6 times throught the text. </p>
+            </figure>
+            <p></p>
+            
+            <figure>
+                <img src="Story_N-gram.png"/>
+                
+            </figure>
+        </div>
+        
+        <div class="side-by-side">
+            <figure>
+                <img src="tell-tale_N-gram.png"/>
+            </figure>
+            <figure>
+                <img src="tell-tale_Worlcluster.png" />
+                <p>This image shows the text file of The tell tale heart. The N-gram size is 2 for the text. 
+                The most frequently used N-gram is <i>of the</i> it shows up 17 times throughout the text.</p>
             </figure>
         </div>
     </body>
