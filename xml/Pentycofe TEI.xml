@@ -25,6 +25,20 @@
             <note type="illustration"> A person wearing a coat, hat, and red gloves walking through the snow with snowshoes </note>
             <signed xml:id="sig1">Earl H.North</signed>
          </div>
+         <div>
+            <div type="entry" xml:id="entry-1999-03-17"> 
+               <head>March 17, 1999 - Wednesday</head>
+               <note type="decoration" xml:id="shamrocks">
+                  <p>Green shamrocks drawn around the page, indicating celebration of St. Patrick's Day.</p>
+               </note>
+               <p>
+                  <hi rend="handwritten"> St. Patrick has been a saint expected to always smile. I hope that his smile is around the managerial smile.</hi>
+               </p>
+               <figure xml:id="fig-managerial-smile">
+                  <figDesc>Drawing of a second building with widows and a flag, possibly representing a school or office</figDesc>
+               </figure>
+            </div>
+         </div>
       </body>
   </text>
 </TEI>
